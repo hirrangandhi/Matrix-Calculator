@@ -1,0 +1,1 @@
+First, copy all the files to same folder.Then, run the "MAIPGM.c"
